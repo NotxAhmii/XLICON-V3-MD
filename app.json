@@ -1,21 +1,21 @@
 {
-  "name": "Xlicon-MD",
+  "name": "NOTxAHMII-MD",
   "version": "3.0.5",
-  "description": "Xlicon-MD, A modular advanced wabot",
-  "logo": "https://i.ibb.co/FsvbwqF/XLICON.jpg",
-  "keywords": ["whatsapp", "bot", "md", "multi-device", "Xlicon", "Xlicon-MD", "wabot", "termux-bot", "sc-bot"],
-  "repository": "https://github.com/salmanytofficial/XLICON-V3-MD",
+  "description": "NOTxAHMII-MD, A modular advanced wabot",
+  "logo": "<a href="https://ibb.co/XkfQZHw"><img src="https://i.ibb.co/tPwGMRd/IMG-20240326-WA0026.jpg" alt="IMG-20240326-WA0026" border="0" /></a>",
+  "keywords": ["whatsapp", "bot", "md", "multi-device", "NOTxAHMII", "NOTxAHMII-MD", "wabot", "termux-bot", "sc-bot"],
+  "repository": "https://github.com/notxahmii/XLICON-V3-MD",
   "stack": "container",
   "env": {
     "SUDO": {
       "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923184070915"
+      "value": "923334461778"
     },
     "SUDO_NAME": {
       "description": "Add Your Name Here",
       "required": true,
-      "value": "SᴀʟᴍᴀɴSᴇʀ"
+      "value": "Ahmad Haseeb"
     },
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
@@ -35,22 +35,22 @@
     "BOT_NAME": {
       "description": "Set Your Bot Name Here",
       "required": false,
-      "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
+      "value": "NOTxAHMII_Mᴅ_V3"
     },
      "PACK_NAME": {
       "description": "Enter Pack Name Here",
       "required": false,
-      "value": "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
+      "value": "NOTxAHMII-𝐕𝟑"
      },
      "AUTHER_NAME": {
       "description": "Enter Auther Name Here",
       "required": false,
-      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
+      "value": "ＭＡＤＥ   ＢＹ   NOTXAHMII"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
       "required": false,
-      "value": "923184070915,923264476886"
+      "value": "923334461778,923309365612"
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
