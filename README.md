@@ -201,7 +201,7 @@ NOW Deploy👇
 <div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
 <a href="https://github.com/notxahmii/Baileys"><img src="https://github.com/notxahmii.png" width="150" height="  <a href="<a href="https://ibb.co/X8DXJR6"><img src="https://i.ibb.co/DpY4K2m/IMG-20240326-WA0027.jpg" alt="IMG-20240326-WA0027" border="0"></a> "/></a>
 <div><button id="boton" type="button">Base  - By NOTxAHMII Botz</button></div>
-<a href="https://github.com/notxahmii"><img src="https://github.com/DGXeon.png" width="150" height="150" alt="Xeon"/></a>
+<a href="https://github.com/notxahmii"><img src="https://github.com/notxahmii.png" width="150" height="150" alt="notxahmii"/></a>
 
 
 ## 📛 `OWNER` 
@@ -228,30 +228,30 @@ NOW Deploy👇
 -------
 
 ## 🌈 `Support Us`
-- **Mail Us:** [notxahmii@gmail.com](mailto.0079haseebahmad@gmail.com)
+- **Mail Us:** [notxahmii@gmail.com](mailto_0079haseebahmad@gmail.com)
 - **Join Our Support Group:**
  <p align="center">
    
   ## ``Support Group``
    
-- [`XLICON Community`](https://chat.whatsapp.com/J8U0HyBlokoC14UwmisO0b)
+- [`NotxAhmii Botz Group`](https://chat.whatsapp.com/CSXwcBVIci92LUQs00pI7O)
 - [`Official Channel`](https://whatsapp.com/channel/0029VaRsOZU8qIzl7q8MZ23O)
-- [`Support Gc`](https://chat.whatsapp.com/Lda5nx04JZJJsKsibu0KFR)
+- [`Follow on Facebook`](https://www.facebook.com/mianhaseeb.mianhaseeb.583)
 
 <a aria-label="Join our chats" href="https://wa.me/923334461778?text=Hi!! NotxAhmii Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
-- [`Support Me On Patreon ☕ `](https://www.patreon.com/ahmmikun/membership)
+- [`Support Me On Youtube ☕ `](https://www.youtube.com/@notxahmiitech/info)
 
 <p align="left">
 Click On The Link To Donate ME...
 </p>
 
 
-- **Buy Me a Coffee:** `Your support will help me stay motivated and continue working on exciting projects like this one.`
+- **Follow me on Facebook:** `Your Follow will help me stay motivated and continue working on exciting projects like this one.`
 
-<a href="https://www.buymeacoffee.com/ahmmikun">
+<a href="https://www.facebook.com/mianhaseeb.mianhaseeb.583">
 <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="40" width="150" style="margin-left: 60px;">
 </a>
 
