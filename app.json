@@ -2,7 +2,7 @@
   "name": "NOTxAHMII-MD",
   "version": "3.0.5",
   "description": "NOTxAHMII-MD, A modular advanced wabot",
-  "logo": "<a href="https://i.ibb.co/tPwGMRd/IMG-20240326-WA0026.jpg" alt="IMG-20240326-WA0026" border="0" /></a>",
+  "logo": "<a href="https://ibb.co/XkfQZHw"><img src="https://i.ibb.co/tPwGMRd/IMG-20240326-WA0026.jpg" alt="IMG-20240326-WA0026" border="0" /></a>",
   "keywords": ["whatsapp", "bot", "md", "multi-device", "NOTxAHMII", "NOTxAHMII-MD", "wabot", "termux-bot", "sc-bot"],
   "repository": "https://github.com/notxahmii/XLICON-V3-MD",
   "stack": "container",
