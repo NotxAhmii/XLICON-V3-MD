@@ -27,14 +27,14 @@ XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [NOTxAHMII] (https://
 
 ### 📊 **Bot Statistics**
 <p align="center">
-<a href="https://github.com/salmanytofficial/followers"><img title="Followers" src="https://img.shields.io/github/followers/salmanytofficial?color=red&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/salmanytofficial/XLICON-V3-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/salmanytofficial/XLICON-V3-MD?color=red&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/salmanytofficial/XLICON-V3-MD?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Salman%20Ser.-red?v=103"></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/salmanytofficial/XLICON-V3-MD?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsalmanytofficial%2FXLICON-V3-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/salmanytofficial/XLICON-V3-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/notxahmii/followers"><img title="Followers" src="https://img.shields.io/github/followers/notxahmii?color=red&style=flat-square"></a>
+<a href="https://github.com/notxahmii/XLICON-V3-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/notxahmii/XLICON-V3-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/notxahmii/XLICON-V3-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/notxahmii/XLICON-V3-MD?color=red&style=flat-square"></a>
+<a href="https://github.com/notxahmii/XLICON-V3-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/notxahmii/XLICON-V3-MD?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/notxahmii/XLICON-V3-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Salman%20Ser.-red?v=103"></a>
+<a href="https://github.com/notxahmii/XLICON-V3-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/notxahmii/XLICON-V3-MD?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnotxahmii%2FXLICON-V3-MD&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/notxahmii/XLICON-V3-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -54,13 +54,13 @@ Thanks to all contributors! 🚀
 
 ## 💲 ```Donate Me```
 
-- [`Buy ME A Coffee ☕ `](https://i.ibb.co/SBXWb1R/donate.jpg)
+- [`Buy ME A Coffee ☕ `](https://i.ibb.co/sgdGM1P/XLICON-V3.jpg)](https://whatsapp.com/channel/0029VaRsOZU8qIzl7q8MZ23O)
 
 <p align="left">
 Scan qr code from the above button, u can pay through Buy Me A Coffee...
 </p>
 
-- [`Support Me On Patreon ☕ `](https://www.patreon.com/ahmmikun/membership)
+- [`Support Me On facebook ☕ `](https://www.facebook.com/mianhaseeb.mianhaseeb.583)
 
 <p align="left">
 Click On The Link To Donate ME...
@@ -203,14 +203,14 @@ NOW Deploy👇
 
 
 ## 📛 `OWNER` 
-<a href="https://github.com/salmanytofficial"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
+<a href="https://github.com/notxahmii"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
   
-**XLICON-V3** - By `salmanytofficial`
+**XLICON-V3** - By `notxahmio`
 <br>
 `Development , Maintainence , Bot Updates`
 
 ## 🏷️ `Main Dev` 
-<a href="https://github.com/V-E-N-O-X"><img src="https://github.com/V-E-N-O-X.png" width="250" height="250" alt="VENOX"/></a>
+<a href="https://github.com/notxahmii"><img src="https://github.com/V-E-N-O-X.png" width="250" height="250" alt="VENOX"/></a>
   
 **XLICON-V3** - By `Slahser Senpai`
 <br>
