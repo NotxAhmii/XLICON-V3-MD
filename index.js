@@ -1,4 +1,8 @@
-//══════════════════════════════════════════════════════════════════════════════════════════════════════//
+<a href="https://www.youtube.com/@notxahmiitech/info">
+    <img alt="Ahmii docs" height="300" src="<a href="https://ibb.co/X8DXJR6"><img src="<a href="https://ibb.co/nMM1LRG"><img src="https://i.ibb.co/1GGXmbg/Black-and-Yellow-Grunge-Gaming-Youtube-Thumbnail.png" alt="Black-and-Yellow-Grunge-Gaming-Youtube-Thumbnail" border="0"></a>">
+  </a>
+    </p>
+    //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //                                                                                                      //
 //                                 𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑-𝐌𝐃    𝐁𝐎𝐓                                                //
 //                                                                                                      //
@@ -15,22 +19,22 @@
 //                                                                                                      //
 //══════════════════════════════════════════════════════════════════════════════════════════════════════//
 //*
-//  * @project_name : XLICON-V3-MD
-//  * @author : salmanytofficial
-//  * @youtube : https://www.youtube.com/@s4salmanyt
-//   * @description : XLICON-V3 ,A Multi-functional whatsapp user bot.
+//  * @project_name : NotxAhmii-V3-MD
+//  * @author : notxahmii
+//  * @youtube : https://www.youtube.com/@notxahmiitech
+//   * @description : NotxAhmii-V3 ,A Multi-functional whatsapp user bot.
 //*
 //*
 //base by DGXeon
 //re-upload? recode? copy code? give credit ya :)
-//Instagram: unicorn_xeon13
-//Telegram: t.me/ahmmitech
-//GitHub: @salmanytofficial
-//WhatsApp: +923184070915
-//want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
-//   * Created By Github: DGXeon.
-//   * Credit To Xeon
-//   * © 2024 XLICON-V3-MD.
+//Instagram: itx.... Me79
+//Facebook: https://www.facebook.com/mianhaseeb.mianhaseeb.583
+//GitHub: @notxahmii
+//WhatsApp: +923334461778
+//want more free bot scripts? subscribe to my youtube channel: https://www.youtube.com/@notxahmiitech
+//   * Created By Github: NotxAhmii.
+//   * Credit To Ahmad Haseeb
+//   * © 2024 NotxAhmii-V3-MD.
 // ⛥┌┤
 // */
 
