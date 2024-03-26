@@ -15,15 +15,15 @@
 </p>
 
 ## 🌟 `Bot Intro and Features`
-[![XLICON](<a href="https://ibb.co/XkfQZHw"><img src="https://i.ibb.co/tPwGMRd/IMG-20240326-WA0026.jpg" alt="IMG-20240326-WA0026" border="0" /></a>)](https://youtube.com/@s4salmanyt)
+[![XLICON](<a href="https://ibb.co/XkfQZHw"><img src="https://i.ibb.co/tPwGMRd/IMG-20240326-WA0026.jpg" alt="IMG-20240326-WA0026" border="0" /></a>)](https://whatsapp.com/channel/0029VaRsOZU8qIzl7q8MZ23O )
 
 <p align="center">
-<a href="https://github.com/salmanytofficial"><img title="Author" src="https://img.shields.io/badge/CREATOR-SALMAN SER-black.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/notxahmii"><img title="Author" src="https://img.shields.io/badge/CREATOR-SALMAN SER-black.svg?style=for-the-badge&logo=github"></a>
 
 ### ℹ️ **About XLICON-V3**
-XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [Salman Ahamed](https://github.com/salmanytofficial). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
+XLICON-V3 is a Cool Multi-Device WhatsApp bot developed by [NOTxAHMII] (https://github.com/notxahmii). It offers a wide range of extraordinary features, making it an advanced and user-friendly bot for various purposes.
 
-<p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V3}/count.svg" alt="SALMAN AHMAD :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{XLICON-V3}/count.svg" alt="NOTxAHMII:: Visitor's Count" /></p>
 
 ### 📊 **Bot Statistics**
 <p align="center">
