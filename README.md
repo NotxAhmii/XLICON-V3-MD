@@ -65,7 +65,7 @@ Scan qr code from the above button, u can pay through Buy Me A Coffee...
 - [`Support Me On facebook ☕ `](https://www.facebook.com/mianhaseeb.mianhaseeb.583)
 
 <p align="left">
-Click On The Link To Donate ME...
+Click On The Link To Subscribe ME On YT...(https://www.youtube.com/@notxahmiitech/info)
 </p>
 
 ## 🚀 `Bot Features`
@@ -199,46 +199,46 @@ NOW Deploy👇
    
 ## `CREDITS` 
 <div><button id="boton" type="button">Baileys - By WhiskeySockets & adiwajshing</button></div>
-<a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
-<div><button id="boton" type="button">Base  - By CHEEMS BOTZ</button></div>
-<a href="https://github.com/DGXeon"><img src="https://github.com/DGXeon.png" width="150" height="150" alt="Xeon"/></a>
+<a href="https://github.com/notxahmii/Baileys"><img src="https://github.com/notxahmii.png" width="150" height="  <a href="<a href="https://ibb.co/X8DXJR6"><img src="https://i.ibb.co/DpY4K2m/IMG-20240326-WA0027.jpg" alt="IMG-20240326-WA0027" border="0"></a> "/></a>
+<div><button id="boton" type="button">Base  - By NOTxAHMII Botz</button></div>
+<a href="https://github.com/notxahmii"><img src="https://github.com/DGXeon.png" width="150" height="150" alt="Xeon"/></a>
 
 
 ## 📛 `OWNER` 
-<a href="https://github.com/notxahmii"><img src="https://github.com/salmanytofficial.png" width="250" height="250" alt="Salman Ahmad"/></a>
+<a href="https://github.com/notxahmii"><img src="https://github.com/notxahmii.png" width="250" height="250" alt="notxahmii"/></a>
   
-**XLICON-V3** - By `notxahmio`
+**XLICON-V3** - By `notxahmii`
 <br>
 `Development , Maintainence , Bot Updates`
 
 ## 🏷️ `Main Dev` 
-<a href="https://github.com/notxahmii"><img src="https://github.com/V-E-N-O-X.png" width="250" height="250" alt="VENOX"/></a>
+<a href="https://github.com/notxahmii"><img src="https://github.com/notxahmii.png" width="250" height="250" alt="NOTxAHMII"/></a>
   
-**XLICON-V3** - By `Slahser Senpai`
+**XLICON-V3** - By `NotxAhmii`
 <br>
 `Development , Features Enhancement , Plugin Debbuging`
 
 ## 🏷️ `Contributer` 
-<a href="https://github.com/dragiez"><img src="https://github.com/dragiez.png" width="250" height="250" alt="DRAGIEZ"/></a>
+<a href="https://github.com/notxahmii"><img src="https://github.com/notxahmii.png" width="250" height="250" alt="NOTxAHMII"/></a>
   
-**XLICON-V3** - By `Dragiez`
+**XLICON-V3** - By `NotxAhmii`
 <br>
 `Development , Features Enhancement , Code Testing`
 
 -------
 
 ## 🌈 `Support Us`
-- **Mail Us:** [salmansheikh2500@gmail.com](mailto:salmansheikh2500@gmail.com)
+- **Mail Us:** [notxahmii@gmail.com](mailto.0079haseebahmad@gmail.com)
 - **Join Our Support Group:**
  <p align="center">
    
   ## ``Support Group``
    
 - [`XLICON Community`](https://chat.whatsapp.com/J8U0HyBlokoC14UwmisO0b)
-- [`Official Group`](https://chat.whatsapp.com/C4ivwZKuh5bLJkqfYNPQsk)
+- [`Official Channel`](https://whatsapp.com/channel/0029VaRsOZU8qIzl7q8MZ23O)
 - [`Support Gc`](https://chat.whatsapp.com/Lda5nx04JZJJsKsibu0KFR)
 
-<a aria-label="Join our chats" href="https://wa.me/923184070915?text=Hi!! SalmanAhmad Sir, I need Your Help" target="_blank">
+<a aria-label="Join our chats" href="https://wa.me/923334461778?text=Hi!! NotxAhmii Sir, I need Your Help" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Owner%20Whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
